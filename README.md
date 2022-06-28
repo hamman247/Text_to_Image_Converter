@@ -46,45 +46,7 @@ Use images with high contrast for best results.
                                M@@@@@@@@@@@L               ]@@@@@@@@@@@*                                    
                                   *M@@@@@@@L               ]@@@@@@@M*                                       
                                       *M&@@                ^W@WP^                                           
-                                                                                                            
+                                                                                                                    
 
-                                _,wmMMMMMMMmw,_                  ______                         
-                             ,mMMMMMMMMMMMMMMMMMMmw_      ,amMMMMMMMMMMMMm_                     
-                          ,@MMMMMMMMMMMMMMMMMMMMMMMM@_,mMMMMMMMMMMMMMMMMMMMk_                   
-                        ,@MMMMMMMMMMMMMMMMMMMMMMMMMMMM@MMMMMMMMMMMMMMMMMMMMMMg                  
-                       gMMMMMMMMMMMMMM@W@@@@@M@W@@MMMM@MMMMMMMMMMMMMMMMMMMMMMM&                 
-                     _@MMMMMMMMMM@@MMMMMMMMMMMMMMMMMW@@MWW@@@MMMMMMMMMMMMMM@MWM_                
-                    ,MMMMMMMMM@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMg_            
-                   gMMMMMMMMMMMMMMMMMMMMMMMMM@@W@@@@@@@@MW@@MMMMMMMM@MW@@@@MMM@@@MW@@m,         
-                 _@MMMMMMMMMMMMMMMMMMMMM@@MM@M@@MMMMMMMMMMMMM@MMMMMMM@M@W@@@@@@@W@@@MMM@,       
-              _a@MMMMMMMMMMMMMMMMMMM@@@M@@MMMMMMMMMMMMMMMMMMMMW@MMMMMMMMMMMMMMMMMMMMMMMMWg      
-            ,@MM@MMMMMMMMMMMMMMMMMMMM@MMMMMMMMMMMMMMM@@@@@@@@@@@MMMMMMM@@@WWW@@@@@MWWW@@MMMg    
-          _@MMMMMMMMMMMMMMMMMM@MMMMMMMMMMMMMM@W@@@@ggg_        WMW#*^     g@@@@@@@@g_    ^W#    
-         ,MMMMM@MMMMMMMMMMMMMMMM@@@WWWWWM**  g@K X@@@@@@g      K         @@[_@@* M@@@y     }    
-        jMMMMMMMMMMMMMMMMMMMMMMMMMMMMw_     @@@@m@@   ]@@L  _g@_        @@@@*@@g_g@@@@_,agC     
-       ,MMMMMMMMMMMMMMMMMMMMMMMMMMMM@@MMMmw@@@@@g@@ggg@@@&mMM@MMMMMmmmwg@@@@@@@@@@MMMMMW*       
-      _MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@@@@@@@@@@@M@WW@@@MMMMMMMMMMMMMMMMMMMMMMMMMMW          
-      @MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@MMMMMMMMMW@MMMMMMMMMM@MWW*^            
-    _@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@@MMMMMMMMMMMMMMMMM@MMMMMMMMMg               
-   gMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@,             
-  @MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM,           
- (MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMML          
- (MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy         
- (MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@@@@MM@@MMMM@@@@@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@w        
-  @MMMMMMMMMMMMMMMMMMMMMMMMMMM@MMMMMMMMMMMMMMMMMM@M@@@@@@@@@@@@@MMMMMMMM@@@@@@@@@@@@@MMM
-  J@MMMMMMMMMMMMMMMMMMMMMMMMM@MMMM@@@MMM@@@@MM@@@@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@@*        
-   %MMMMMMMMMMMMMMMMMMMMMMMMMM@MMMMMMMMMMMMMMMMMMMM@M@@@@@@@@@@@@@@@@@@@@@@@@@@@@@MMC           
-    %@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@@@@@@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@#            
-     ^W@MMMMMMMMMMMMMMMMMMM@@MMMMMMMMMMMMMMMMMMMMMMMMMMMMM@@@@@@@@@@@@@@@@@@@@@@P*              
-      _,@@@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@#                  
-     d@@@@@@@MMW@@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWP                     
-     J@@@@@@@@@@@MMMMMM@MW@@@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@W#*                         
-     j@@@@@@@@@@@@@@@@@@MMMMMMMMMMM@@M@WW@@@@@@@@@@@@@@@M@WW@@MM@                               
-     ]@@@@@@@@@@@@@@@@@@@@@@@@@@@@MMMMMMMMMMMMMMMMMMMMMMMM@@@@@@@@@m,_                          
-     ]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@g                        
-     ]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@g                      
-     ]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@_                   
-     JMMWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@_                 
-                                                                                              
 
 
